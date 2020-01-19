@@ -1,1 +1,68 @@
+title: ADB40-2
+description: Integrated Travel Modeling
+google_analytics:
 theme: jekyll-theme-slate
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Name of the property. You can have multiple properties with completely
+# different config blocks for different sections of your site.
+# For example, you can have one property to handle comment submission and
+# another one to handle posts.
+members:
+  # (*) REQUIRED
+  #
+  # Names of the fields the form is allowed to submit. If a field that is
+  # not here is part of the request, an error will be thrown.
+  allowedFields: ["first_name", "last_name", "affiliation", "email"]
+
+  # When allowedOrigins is defined, only requests sent from one of the domains
+  # listed will be accepted.
+  allowedOrigins: ["localhost", "adb40-2"]
+
+  # (*) REQUIRED
+  #
+  # Name of the branch being used. Must match the one sent in the URL of the
+  # request.
+  branch: "master"
+
+  # The format of the generated data files. Accepted values are "json", "yaml"
+  # or "frontmatter"
+  format: "yaml"
+
+  # Whether entries need to be appproved before they are published to the main
+  # branch. If set to `true`, a pull request will be created for your approval.
+  # Otherwise, entries will be published to the main branch automatically.
+  moderation: false
+
+  # Name of the site. Used in notification emails.
+  name: "adb40-2"
+  
+  notifications:
+    enabled: false
+
+  # (*) REQUIRED
+  #
+  # Destination path (directory) for the data files. Accepts placeholders.
+  path: "members"
+
+  # (*) REQUIRED
+  #
+  # Destination path (filename) for the data files. Accepts placeholders.
+  filename: "entry{@timestamp}"
+
+  # Names of required files. If any of these isn't in the request or is empty,
+  # an error will be thrown.
+  requiredFields: ["first_name", "last_name", "affiliation", "email"]
+
+  # List of transformations to apply to any of the fields supplied. Keys are
+  # the name of the field and values are possible transformation types.
+  transforms:
+    email: md5
+
+  reCaptcha:
+    enabled: false
+    siteKey: "6LddezEUAAAAAEgYhFlbg6YMrola0d5ZdhK6OyrA"
+    secret: "C/beoE4nGgpjfvj6yPT4/B+54tlnfxXiL/OynntFifQ2CFQDadkGXnBAzxk/LFa2Ta/KCUSSfmgpDrODqzgZ4euo+EGL1VL3jKcP6mstpyT39Z9mlzd4grO2COrdbjuIJ1R4dlmjL95532Os0qbw3KfYkj0tOzbxBahlOrCzC0o="
