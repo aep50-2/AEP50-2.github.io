@@ -1,0 +1,12 @@
+	{% for member in members %}
+		{% assign memberData = member[1] %}
+
+		<article>
+		  <div>
+		  	<p><strong>First name: </strong>{{ memberData.first_name }}</p>
+			<p><strong>Last name: </strong>{{ memberData.last_name }}</p>
+			<p><strong>Affiliation: </strong>{{ memberData.affiliation }}</p>
+			<p><strong>Email: </strong>{{ memberData.email }}</p>
+		  </div>
+		</article>
+	{% endfor %}

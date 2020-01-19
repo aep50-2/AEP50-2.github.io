@@ -1,25 +1,15 @@
 ---
-layout: post
-title: About
+layout: default
+title: News and Events
 ---
-<p>
-This theme is available for free under the MIT open source software license.
-<br>
-The theme can be found <a href="https://github.com/benradford/Slate-and-Simple-Jekyll-Theme">here</a>.
-<br>
-The theme requires <a href="https://jekyllrb.com">Jekyll</a>, a static-site generator compatible with <a href="https://pages.github.com">pages.github.com</a>.
-</p>
+# News and Events
 
-<hr>
+Subcommittee meeting, Jan 14th 2020, Tuesday 10:15 AM-12:00 PM
 
-<p>
-Maecenas tempus ullamcorper ante, sed eleifend purus mollis a. Sed ut molestie eros. Etiam arcu mi, consequat id ligula nec, faucibus dictum tortor. Ut tempus felis non commodo luctus. Nunc ac ullamcorper leo. Suspendisse et lorem eu leo iaculis vehicula nec vel mauris. Nullam eget porta ante.
-</p>
+Co-sponsored a Workshop on: “Tools for Assessing the Energy, Emission, and Environmental Impacts of SMART Mobility Technologies” Thursday 1-17-2019, 8:00 AM- 12:00 PM 202B, Convention Center
 
-<p>
-Nunc tellus justo, pharetra sit amet blandit nec, mattis eu turpis. Praesent efficitur posuere nunc, non dapibus lectus placerat eget. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean a tincidunt velit. Nam ac ultricies metus. Morbi non erat ac nunc rutrum congue. Aliquam ultrices viverra felis quis pharetra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
-</p>
+TRB 2019- Cross-Cutting Session (at AD000 Group Level): “Energy Demand and Impacts Analysis with Integrated Modeling of Transportation Systems” Tuesday 1-15-2019, 10:15 AM- 12:00 PM, 146B, Convention Center
 
-<p>
-Phasellus pellentesque odio eget massa finibus, in aliquam lectus tincidunt. Suspendisse potenti. Fusce nisi ipsum, facilisis sed nunc non, congue gravida augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ut elementum nulla. Ut iaculis elit ac lectus elementum, mollis porta ex ultricies. Maecenas pretium lectus quis vulputate feugiat. Curabitur vitae ex in eros eleifend volutpat vitae sed dui.
-</p>
+Call for paper for TRB 2019: “Energy Demand and Consumption Analysis with Integrated Modeling of Transportation Systems”
+
+Subcommittee Conference Call, May 29th, 2018
