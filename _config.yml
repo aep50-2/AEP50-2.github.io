@@ -6,6 +6,9 @@ theme: jekyll-theme-slate
 sass:
   sass_dir: _sass
   style: compressed
+  
+github:
+  is_project_page: false
 
 # Name of the property. You can have multiple properties with completely
 # different config blocks for different sections of your site.
