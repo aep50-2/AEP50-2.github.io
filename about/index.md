@@ -12,8 +12,6 @@ Over the past decade and a half, the subcommittee has been successful in bringin
 
 In the past years, given the success of the ILUTM subcommittee, there was an interest in expanding the scope of the subcommittee into a broader theme of integrated transport modeling, including elements of energy, air quality, and health outcomes. The idea was not to dilute the current focus on integrated land-use and transportation modeling, but to generalize the concept of integration – therefore the new title Integrated Transport Modeling for the subcommittee. In this context, the earlier focus of the subcommittee on ILUTMS may be viewed as an important step toward the broader theme of integrated transport modeling.
 
-![Nexus plot](../img/nexus_fig.png)
-
 # Long-term Vision
 The more generic title for the subcommittee (rather than focusing on a specific domain of integration) will allow the subcommittee to morph to new areas of integration as the field develops. The vision of the subcommittee will, as it has always been, be to provide a space and impetus to bring together key participants from diverse communities that have historically had little overlap but through integration will more rapidly and effectively advance the field.
 
