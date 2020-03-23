@@ -11,11 +11,18 @@ The changes will be reviewed by the website adminstrator.
 
 ## Website Structure
 The website is structured as follows: 
-index.html --> homepage text that is presented when first accessing the website.  
-about > index.html --> contains details on the ADB40-2 subcommittee, including its history and structure  
-trb > index.md --> location for pdf/pp files for the TRB committee meeting minutes. Follow structure in existing file to add subsequent annual meeting files.  
-trb-invite > index.md --> location for pdf/pp files for invited presentations at the TRB committee meeting. Follow structure in existing file to add subsequent annual meeting files.  
-news > index.md --> news regarding the committee activities
+**index.html** --> homepage text that is presented when first accessing the website.  
+**about > index.html** --> contains details on the ADB40-2 subcommittee, including its history and structure  
+**trb > index.md** --> location for pdf/pp files for the TRB committee meeting minutes. Follow structure in existing file to add subsequent annual meeting files.  
+**trb-invite > index.md** --> location for pdf/ppx files for invited presentations at the TRB committee meeting. Follow structure in existing file to add subsequent annual meeting files.  
+**news > index.md** --> news regarding the committee activities  
+**friends > index.md** --> currently setup as an embedded spreadsheet. Can request access to sheet from web administrator: jason.hawkins@mail.utoronto.ca  
+**contact > index.html** --> webform to submit a message to the committee and list of contact details for current committee chairs   
+**_data >** --> folder containing documents (pdf/ppx) used in website  
+**_includes >** --> sub-templates for constructing main html template  
+**_layouts >** --> html template files for website  
+**img >** --> folder containing static images used in website  
+**_config.yml** --> configuration file for building website. Includs website name, paths, etc.
 
 ## Markdown Syntax Details from Github Pages
 
