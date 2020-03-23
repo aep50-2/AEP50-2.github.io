@@ -6,8 +6,8 @@ In order to edit the subcomittee website, you must have a Github account. After 
 1. Request access to the repository by contacting Jason Hawkins: jason.hawkins@mail.utoronto.ca
 2. Once access is provided, there are two methods you can employ to make changes to the website:  
   a. Make changes directly online by adding/editing the file of interest. See: https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository for more details.  
-  b. Create a local copy of the repository on your computer, make changes there, and push those changes to the repository changes to the repository for review.
-The changes will be reviewed by the website adminstrator.
+  b. Create a local copy of the repository on your computer, make changes there, and push those changes to the repository changes to the repository for review.  
+The changes will be reviewed by the website adminstrator. Alternatively, you can send a text document and files to Jason Hawkins (jason.hawkins@mail.utoronto.ca) to have them uploaded to the website/make changes to existing pages.
 
 ## Website Structure
 The website is structured as follows: 
