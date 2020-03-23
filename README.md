@@ -1,4 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to the ADB40-2 website.
+Please find below various details for editing this website.
+
+## Setting up a Github account and editing the website
+In order to edit the subcomittee website, you must have a Github account. After creating an account:
+1. Request access to the repository by contacting Jason Hawkins: jason.hawkins@mail.utoronto.ca
+2. Once access is provided, there are two methods you can employ to make changes to the website:  
+  a. Make changes directly online by adding/editing the file of interest. See: https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository for more details.  
+  b. Create a local copy of the repository on your computer, make changes there, and push those changes to the repository changes to the repository for review.
+The changes will be reviewed by the website adminstrator.
+
+## Website Structure
+The website is structured as follows: 
+index.html --> homepage text that is presented when first accessing the website.  
+about > index.html --> contains details on the ADB40-2 subcommittee, including its history and structure  
+trb > index.md --> location for pdf/pp files for the TRB committee meeting minutes. Follow structure in existing file to add subsequent annual meeting files.  
+trb-invite > index.md --> location for pdf/pp files for invited presentations at the TRB committee meeting. Follow structure in existing file to add subsequent annual meeting files.  
+news > index.md --> news regarding the committee activities
+
+## Markdown Syntax Details from Github Pages
 
 You can use the [editor on GitHub](https://github.com/ADB40-2/ADB40-2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
